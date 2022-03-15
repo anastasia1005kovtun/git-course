@@ -1,0 +1,4 @@
+error.txt
+.idea
+logs/
+!logs/log1.txt
